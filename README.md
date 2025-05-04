@@ -20,6 +20,7 @@ Do real-world biases shape how we rank Animal Crossing villagers? This project e
 
 ## Methods
 
+* Data retrieval through web scraping
 * Exploratory Data Analysis (EDA)
 * Kruskal-Wallis test (+ epsilon-squared squared) + Dunn’s post hoc test
 * Visualization of trends in species, personality, and gender distributions
@@ -30,5 +31,5 @@ This analysis reveals how cultural aesthetics and social biases subtly shape eve
 
 ## Repository contents
 
-* **Data retrieval** (APIs)
+* **Data retrieval**
 * **EDA notebook** (analysis + visualizations)
